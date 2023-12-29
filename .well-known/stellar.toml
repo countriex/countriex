@@ -1,1 +1,1476 @@
-test
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="Countriex Stellar Token Series"
+ORG_URL="https://countriex.github.io/"
+ORG_LOGO="https://avatars.githubusercontent.com/u/143279070?v=4"
+ORG_OFFICIAL_EMAIL="vpstrackers@gmail.com"
+ORG_DESCRIPTION="Ledger explorer and analytics platform for Stellar Network"
+
+[[CURRENCIES]]
+code = "AFGHANISTAN"
+name = "Afghanistan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central Asia and South Asia."
+image = "https://static.history.state.gov/countries/afghan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ALBANIA"
+name = "Albania"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "officially the Republic of Albania is a country in Southeast Europe"
+image = "https://static.history.state.gov/countries/albania-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ALGERIA"
+name = "Algeria"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Algeria, officially the People's Democratic Republic of Algeria, is a country in North Africa."
+image = "https://static.history.state.gov/countries/algeria-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ANDORA"
+name = "Andorra"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Andorra,officially the Principality of Andorra,is a sovereign landlocked country and microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south."
+image = "https://static.history.state.gov/countries/algeria-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ANGOLA"
+name = "Angola"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Angola, officially the Republic of Angola (Portuguese: República de Angola), is a country on the west-central coast of Southern Africa."
+image = "https://static.history.state.gov/countries/angolan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ANTIGUA"
+name = "Antigua and Barbuda"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Antigua is Spanish for 'ancient' and barbuda is Spanish for 'bearded'."
+image = "https://static.history.state.gov/countries/antiguan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ARGENTINA"
+name = "Argentina"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "After Argentina gained independence from the Spanish in 1816, the nation was paralyzed by tension between Centralist and Federalist forces."
+image = "https://static.history.state.gov/countries/argentinian-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ARMENIA"
+name = "Armenia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "For a brief period from 1918 to 1920 Armenia became an independent republic. In late 1920, local communists came to power following an invasion of Armenia by the Soviet Red Army, and in 1922, Armenia became part of the Trans-Caucasian Soviet Socialist Republic."
+image = "https://static.history.state.gov/countries/armenian-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "AUSTRALIA"
+name = "Australia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "On October 9, 1942, Australia’s Statute of Westminster Adoption Act became law."
+image = "https://static.history.state.gov/countries/austrialian-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "AUSTRIA"
+name = "Austria"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Austria (German: Österreich), formally the Republic of Austria (German: Republik Österreich), is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine provinces, one of which is the capital, Vienna, the most populous city and province."
+image = "https://static.history.state.gov/countries/austria-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "AZERBAIJAN"
+name = "Azerbaijan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The United States has paid special attention to encouraging peaceful, negotiated resolution to Azeri-Armenian territorial conflicts."
+image = "https://static.history.state.gov/countries/azerbaijan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BAHAMAS"
+name = "Bahamas"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "As a close neighbor of the United States, The Bahamas has historically enjoyed good diplomatic relations with the United States. Since achieving full independence from the United Kingdom in 1973, The Bahamas has closely cooperated with the United States to reduce drug trafficking and illegal immigration issues."
+image = "https://static.history.state.gov/countries/bahamian-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BAHRAIN"
+name = "Bahrain"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The nine sheikhdoms still had not agreed on terms of union by 1971, however, prompting Bahrain to declare itself fully independent on August 15, 1971."
+image = "https://static.history.state.gov/countries/bahrain-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BANGLADESH"
+name = "Bangladesh"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The official language is Bengali, one of the easternmost branches of the Indo-European language family."
+image = "https://static.history.state.gov/countries/bangladesh.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BARBADOS"
+name = "Barbados"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "While it is technically an Atlantic island, Barbados is closely associated with the Caribbean and is ranked as one of its leading tourist destinations."
+image = "https://static.history.state.gov/countries/barbados-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BELARUS"
+name = "Belarus"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "While it is technically an Atlantic island, Barbados is closely associated with the Caribbean and is ranked as one of its leading tourist destinations."
+image = "https://static.history.state.gov/countries/belarus_flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BELGIUA"
+name = "Belgium"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Belgium is part of an area known as the Low Countries, historically a somewhat larger region than the Benelux group of states, as it also included parts of northern France."
+image = "https://static.history.state.gov/countries/belgium.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BELIZE"
+name = "Belize"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "In 1840 it became a British colony known as British Honduras, and a Crown colony in 1862. Belize achieved its independence from the United Kingdom on 21 September 1981."
+image = "https://static.history.state.gov/countries/belize-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BENIN"
+name = "Benin"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "In 1960, Dahomey gained full independence from France."
+image = "https://static.history.state.gov/countries/benin-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BOLIVIA"
+name = "Bolivia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The country's population, estimated at 12 million, is multiethnic, including Amerindians, Mestizos, Europeans, Asians, and Africans. Spanish is the official and predominant language, although 36 indigenous languages also have official status, of which the most commonly spoken are Guarani, Aymara, and Quechua languages."
+image = "https://static.history.state.gov/countries/bolivia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BOSNIA"
+name = "Bosnia and Herzegovina"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "After World War II, it was granted full republic status in the newly formed Socialist Federal Republic of Yugoslavia."
+image = "https://static.history.state.gov/countries/bosnia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BOTSWANA"
+name = "Botswana"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "A country of slightly over 2.3 million people, Botswana is one of the most sparsely populated countries in the world."
+image = "https://static.history.state.gov/countries/botswana-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BRAZIL"
+name = "Brazil"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Brazil remained a Portuguese colony until 1808 when the capital of the empire was transferred from Lisbon to Rio de Janeiro."
+image = "https://static.history.state.gov/countries/brazil-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BRUNEI"
+name = "Brunei"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Brunei has been led by Sultan Hassanal Bolkiah since 1967."
+image = "https://static.history.state.gov/countries/brunei-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BULGARIA"
+name = "Bulgaria"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Bulgaria is a developing country, with an upper-middle-income economy, ranking 68th in the Human Development Index."
+image = "https://static.history.state.gov/countries/bulgarian-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BURKINAFASO"
+name = "Burkina Faso"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Burkina Faso is one of the least developed countries, with a GDP of $16.226 billion."
+image = "https://static.history.state.gov/countries/burkinafaso-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BURMA"
+name = "Burma"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "On 4 January 1948, Myanmar declared independence under the terms of the Burma Independence Act 1947."
+image = "https://static.history.state.gov/countries/burmese-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "BURUNDI"
+name = "Burundi"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The sovereign state of Burundi's political system is that of a presidential representative democratic republic based upon a multi-party state."
+image = "https://static.history.state.gov/countries/burundi.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CABOVERDE"
+name = "Cabo Verde"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Since the early 1990s, Cape Verde has been a stable representative democracy and has remained one of the most developed and democratic countries in Africa. Lacking natural resources, its developing economy is mostly service-oriented, with a growing focus on tourism and foreign investment."
+image = "https://static.history.state.gov/countries/cape-verde-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CAMBODIA"
+name = "Cambodia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "In 802 AD, Jayavarman II declared himself king, uniting the warring Khmer princes of Chenla under the name Kambuja"
+image = "https://static.history.state.gov/countries/cambodian-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CAMEROON"
+name = "Cameroon"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Union des Populations du Cameroun (UPC) political party advocated independence, but was outlawed by France in the 1950s, leading to the national liberation insurgency fought between French and UPC militant forces until early 1971"
+image = "https://static.history.state.gov/countries/cameroon-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CANADA"
+name = "Canada"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The United States recognized Canada as an independent state with autonomous control over its foreign relations on February 18, 1927, when Vincent Massey presented his credentials in Washington as Canadian Envoy Extraordinary and Minister Plenipotentiary."
+image = "https://static.history.state.gov/countries/canada-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CAYMAN"
+name = "Cayman Islands"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Cayman Islands, a British Overseas Territory, encompasses 3 islands in the western Caribbean Sea. Grand Cayman, the largest island, is known for its beach resorts and varied scuba diving and snorkelling sites."
+image = "https://static.history.state.gov/countries/cayman-islands-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "C-A-R"
+name = "Central African Republic"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Central African Republic, formerly known as Ubangi-Shari, is a landlocked country in Central Africa."
+image = "https://static.history.state.gov/countries/central-african-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CHAD"
+name = "Chad"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Chad, officially the Republic of Chad, is a landlocked country at the crossroads of North and Central Africa."
+image = "https://static.history.state.gov/countries/chad-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CHILE"
+name = "Chile"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Chile is a long, narrow country stretching along South America's western edge, with more than 6,000km of Pacific Ocean coastline. Santiago, its capital, sits in a valley surrounded by the Andes and Chilean Coast Range mountains."
+image = "https://static.history.state.gov/countries/chile-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CHINA"
+name = "China"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "China, officially the People's Republic of China (PRC), is a country in East Asia. It is the world's second-most-populous country, with a population exceeding 1.4 billion."
+image = "https://static.history.state.gov/countries/china-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "COLOMBIA"
+name = "Colombia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Columbia Sportswear Company is an American company that manufactures and distributes outerwear, sportswear, and footwear, as well as headgear, camping equipment, ski apparel, and outerwear accessories."
+image = "https://static.history.state.gov/countries/colombia-flag.jpg"
+conditions = "BuySell Sterategy"
+
+[[CURRENCIES]]
+code = "COMOROS"
+name = "Comoros"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Comoros is a volcanic archipelago off Africa’s east coast, in the warm Indian Ocean waters of the Mozambique Channel. The nation state’s largest island, Grande Comore (Ngazidja) is ringed by beaches and old lava from active Mt. Karthala volcano."
+image = "https://static.history.state.gov/countries/comoros-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CONGO"
+name = "Democratic Republic of the Congo"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = ""
+image = "https://static.history.state.gov/countries/congo-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "COSTARICA"
+name = "Costa Rica"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = ""
+image = "https://static.history.state.gov/countries/costa-rica-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "COTEIVOIRE"
+name = "Cote d’Ivoire"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = ""
+image = "https://static.history.state.gov/countries/cote-flag.jpg"
+conditions = "BuySell Sterategy"
+
+[[CURRENCIES]]
+code = "CROATIA"
+name = "Croatia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = ""
+image = "https://static.history.state.gov/countries/croatia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CUBA"
+name = "Cuba"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = ""
+image = "https://static.history.state.gov/countries/cuban-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CYPRUS"
+name = "Cyprus"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = ""
+image = "https://static.history.state.gov/countries/cyprus-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "CZECHIA"
+name = "Czechia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia,"
+image = "https://static.history.state.gov/countries/czech-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "DENMARK"
+name = "Denmark"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands. It's linked to nearby Sweden via the Öresund bridge."
+image = "https://static.history.state.gov/countries/denmark-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "DJIBOUTI"
+name = "Djibouti"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Djibouti, on the Horn of Africa, is a mostly French- and Arabic-speaking country of dry shrublands, volcanic formations and Gulf of Aden beaches."
+image = "https://static.history.state.gov/countries/djibouti-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "DOMENICA"
+name = "Dominica"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Dominica is a mountainous Caribbean island nation with natural hot springs and tropical rainforests. Morne Trois Pitons National Park is home to the volcanically heated, steam-covered Boiling Lake."
+image = "https://static.history.state.gov/countries/dominica.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "DOMENICAN"
+name = "Dominican Republic"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Dominican Republic is a Caribbean nation that shares the island of Hispaniola with Haiti to the west. It's known for its beaches, resorts and golfing."
+image = "https://static.history.state.gov/countries/dominican-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ECUADOR"
+name = "Ecuador"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Ecuador is a country straddling the equator on South America’s west coast. Its diverse landscape encompasses Amazon jungle, Andean highlands and the wildlife-rich Galápagos Islands."
+image = "https://static.history.state.gov/countries/ecuador-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "EGYPT"
+name = "Egypt"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs."
+image = "https://static.history.state.gov/countries/egypt-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ELSALVADOR"
+name = "El Salvador"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "El Salvador, officially the Republic of El Salvador, is a country in Central America. It is bordered on the northeast by Honduras, on the northwest by Guatemala, and on the south by the Pacific Ocean."
+image = "https://static.history.state.gov/countries/els-salvador-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "EQGUINEA"
+name = "Equatorial Guinea"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Equatorial Guinea's government is authoritarian and has one of the worst human rights records in the world, consistently ranking among the worst of the worst in Freedom Houses annual survey of political and civil rights."
+image = "https://static.history.state.gov/countries/equatorial-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ERITREA"
+name = "Eritrea"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Eritrea is a northeast African country on the Red Sea coast. It shares borders with Ethiopia, Sudan and Djibouti. The capital city, Asmara, is known for its Italian colonial buildings, like St."
+image = "https://static.history.state.gov/countries/eritrea.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ESTONIA"
+name = "Estonia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Estonia, a country in Northern Europe, borders the Baltic Sea and Gulf of Finland. Including more than 1,500 islands, its diverse terrain spans rocky beaches, old-growth forest and many lakes."
+image = "https://static.history.state.gov/countries/estonia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ESWATINI"
+name = "Eswatini"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Eswatini, formally the Kingdom of Eswatini and also known by its former official name Swaziland, is a landlocked country in Southern Africa."
+image = "https://static.history.state.gov/countries/swaziland-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ETHIOPIA"
+name = "Ethiopia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Ethiopia, in the Horn of Africa, is a rugged, landlocked country split by the Great Rift Valley. With archaeological finds dating back more than 3 million years, it’s a place of ancient culture."
+image = "https://static.history.state.gov/countries/ethiopia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "FIJI"
+name = "Fiji"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Fiji, a country in the South Pacific, is an archipelago of more than 300 islands. It's famed for rugged landscapes, palm-lined beaches and coral reefs with clear lagoons. Its major islands, Viti Levu and Vanua Levu, contain most of the population."
+image = "https://static.history.state.gov/countries/fiji-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "FINLAND"
+name = "Finland"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Finland is a Northern European nation bordering Sweden, Norway and Russia. Its capital, Helsinki, occupies a peninsula and surrounding islands in the Baltic Sea. Helsinki is home to the 18th-century sea fortress Suomenlinna, the fashionable Design District and diverse museums. "
+image = "https://static.history.state.gov/countries/finland-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "FRANCE"
+name = "France"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. "
+image = "https://static.history.state.gov/countries/france-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GABON"
+name = "Gabon"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Gabon, a country along the Atlantic coast of Central Africa, has significant areas of protected parkland. The forested coastal terrain of its famed Loango National Park shelters a diversity of wildlife, from gorillas and hippos to whales."
+image = "https://static.history.state.gov/countries/gabon-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GAMBIA"
+name = "The Gambia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Gambia is a small West African country, bounded by Senegal, with a narrow Atlantic coastline. It's known for its diverse ecosystems around the central Gambia River."
+image = "https://static.history.state.gov/countries/gambia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GEORGIA"
+name = "Georgia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Georgia, a country at the intersection of Europe and Asia, is a former Soviet republic that’s home to Caucasus Mountain villages and Black Sea beaches."
+image = "https://static.history.state.gov/countries/georgia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GERMANY"
+name = "Germany"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches."
+image = "https://static.history.state.gov/countries/germany-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GHANA"
+name = "Ghana"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Ghana, officially the Republic of Ghana, is a country in West Africa."
+image = "https://static.history.state.gov/countries/ghana-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GREECE"
+name = "Greece"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Greece is a country in southeastern Europe with thousands of islands throughout the Aegean and Ionian seas. Influential in ancient times, it's often called the cradle of Western civilization."
+image = "https://static.history.state.gov/countries/greece-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GRENADA"
+name = "Grenada"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Grenada is a Caribbean country comprising a main island, also called Grenada, and smaller surrounding islands. Dubbed the “Spice Isle,” the hilly main island is home to numerous nutmeg plantations."
+image = "https://static.history.state.gov/countries/grenada-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GUATEMALA"
+name = "Guatemala"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Guatemala, a Central American country south of Mexico, is home to volcanoes, rainforests and ancient Mayan sites. The capital, Guatemala City, features the stately National Palace of Culture and the National Museum of Archaeology and Ethnology."
+image = "https://static.history.state.gov/countries/guatemala.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GUINEA"
+name = "Guinea"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Guinea is a country in West Africa, bordered on the west by the Atlantic Ocean. It's known for the Mount Nimba Strict Nature Reserve, in the southeast."
+image = "https://static.history.state.gov/countries/guinea.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GUINEABISSAU"
+name = "Guinea-Bissau"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Guinea-Bissau is a tropical country on West Africa’s Atlantic coast that’s known for national parks and wildlife. The forested, sparsely populated Bijagós archipelago is a protected biosphere reserve."
+image = "https://static.history.state.gov/countries/guinea-bissau.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "GUYANA"
+name = "Guyana"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Guyana, a country on South America’s North Atlantic coast, is defined by its dense rainforest. English-speaking, with cricket and calypso music, it's culturally connected to the Caribbean region."
+image = "https://static.history.state.gov/countries/guyana-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "HAITI"
+name = "Haiti"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Haiti is a Caribbean country that shares the island of Hispaniola with the Dominican Republic to its east. Though it’s still recovering from a 2010 earthquake, many of Haiti's landmarks dating to the early 19th century remain intact."
+image = "https://static.history.state.gov/countries/haiti.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "HONDURAS"
+name = "Honduras"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Honduras is a Central American country with Caribbean Sea coastlines to the north and the Pacific Ocean to the south."
+image = "https://static.history.state.gov/countries/honduras-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "HUNGARY"
+name = "Hungary"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "During World War II Hungary fought on the side of Germany, although the country fell under German military occupation after an unsuccessful attempt to switch sides on October 15, 1944."
+image = "https://static.history.state.gov/countries/hungary.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ICELAND"
+name = "Iceland"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Located on a rift between tectonic plates, Iceland's geologic activity includes geysers and frequent volcanic eruptions."
+image = "https://static.history.state.gov/countries/iceland.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "INDIA"
+name = "India"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "India, officially the Republic of India is a country in South Asia"
+image = "https://static.history.state.gov/countries/india.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "INDONESIA"
+name = "Indonesia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Indonesia,officially the Republic of Indonesia is an island nation in Southeast Asia and Oceania between the Indian and Pacific oceans"
+image = "https://static.history.state.gov/countries/indonesia.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "IRAN"
+name = "Iran"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Iran,also known as Persia and officially as the Islamic Republic of Iran is a country in West Asia"
+image = "https://static.history.state.gov/countries/iran-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "IRAQ"
+name = "Iraq"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Iraq,officially the Republic of Iraq is a country in the Middle East. It is a federal parliamentary republic that consists of 19 governorates"
+image = "https://static.history.state.gov/countries/iraq-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "IRELAND"
+name = "Ireland"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "A war of independence in the early 20th century was followed by the partition of the island, leading to the creation of the Irish Free State, which became increasingly sovereign over the following decades, and Northern Ireland, which remained a part of the United Kingdom. Northern Ireland saw much civil unrest from the late 1960s until the 1990s. This subsided following the Good Friday Agreement in 1998"
+image = "https://static.history.state.gov/countries/ireland-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ISRAEL"
+name = "Israel"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Israel, a Middle Eastern country on the Mediterranean Sea, is regarded by Jews, Christians and Muslims as the biblical Holy Land."
+image = "https://static.history.state.gov/countries/israel-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ITALY"
+name = "Italy"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Italian peninsula was historically the native place of numerous ancient peoples and destination of a myriad of different peoples and cultures who immigrated throughout history."
+image = "https://static.history.state.gov/countries/italy-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "JAMAICA"
+name = "Jamaica"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Throughout the 19th century the United States maintained several consular posts throughout Colonial British Jamaica, the earliest at Montego Bay and Falmouth dating from 1861. These posts, which were placed to monitor American trade interests in the Caribbean, were all closed by September 1919."
+image = "https://static.history.state.gov/countries/jamaica.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "JAPAN"
+name = "Japan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "citizens and the Japanese to interact. There were, however, isolated cases of interaction. By the 1850s, a combination of growing U.S. interests in expanding a regional presence and internal shifts in Japan brought about a dramatic opening in U.S.-Japanese relations."
+image = "https://static.history.state.gov/countries/japan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "JORDAN"
+name = "Jordan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Jordan, officially the Hashemite Kingdom of Jordan, is a country in West Asia. It is situated at the crossroads of Asia, Africa, and Europe, within the Levant region, on the East Bank of the Jordan River. Jordan is bordered by Saudi Arabia to the south and east, Iraq to the northeast, Syria to the north, and the Palestinian West Bank and Israel to the west."
+image = "https://static.history.state.gov/countries/jordan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "KAZAKHSTAN"
+name = "Kazakhstan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Kazakhstan, officially the Republic of Kazakhstan, is a landlocked country located mainly in Central Asia and partly in Eastern Europe."
+image = "https://static.history.state.gov/countries/kazakh-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "KENYA"
+name = "Kenya"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Kenya, officially the Republic of Kenya , is a country in East Africa. A member of the Commonwealth with a population of more than 47.6 million in the 2019 census, Kenya is the 28th most populous country in the world and 7th most populous in Africa."
+image = "https://static.history.state.gov/countries/kenya-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "KIRIBATI"
+name = "Kiribati"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Kiribati, officially the Republic of Kiribati is an island country in the Micronesia subregion of Oceania in the central Pacific Ocean. Its permanent population is over 119,000 as of the 2020 census, with more than half living on Tarawa atoll. The state comprises 32 atolls and one remote raised coral island, Banaba. Its total land area is 811 km2 (313 sq mi) dispersed over 3,441,810 km2 (1,328,890 sq mi) of ocean."
+image = "https://static.history.state.gov/countries/kiribati-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "KOSOVO"
+name = "Kosovo"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Kosovo is a partially recognized country in Southeast Europe."
+image = "https://static.history.state.gov/countries/kosovo-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "KUWAIT"
+name = "Kuwait"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Kuwait, officially the State of Kuwait is a country in the Middle East."
+image = "https://static.history.state.gov/countries/kuwait-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "KYRGYZSTAN"
+name = "Kyrgyzstan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Kyrgyzstan, officially the Kyrgyz Republic,is a landlocked country in Central Asia"
+image = "https://static.history.state.gov/countries/kyrgyzstan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LAOS"
+name = "Laos"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Laos, officially the Lao People's Democratic Republic is a landlocked country in Southeast Asia"
+image = "https://static.history.state.gov/countries/laos-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LATVIA"
+name = "Latvia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Latvia is a country in the Baltic region of Northern Europe. It is one of the three Baltic states, along with Estonia."
+image = "https://static.history.state.gov/countries/latvia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LEBANON"
+name = "Lebanon"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Lebanon, officially the Republic of Lebanon, is a country in West Asia."
+image = "https://static.history.state.gov/countries/lebanon-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LESOTHO"
+name = "Lesotho"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Lesotho, formally the Kingdom of Lesotho, is a landlocked country in Southern Africa. "
+image = "https://static.history.state.gov/countries/lesotho-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LIBERIA"
+name = "Liberia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Liberia, officially the Republic of Liberia, is a country on the West African coast"
+image = "https://static.history.state.gov/countries/liberia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LIBYA"
+name = "Libya"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The country's official religion is Islam, with 96.6% of the Libyan population being Sunni Muslims."
+image = "https://static.history.state.gov/countries/libya-flag.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LICHTENSTEIN"
+name = "Liechtenstein"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "It is Europe's fourth-smallest country, with an area of just over 160 square kilometres (62 square miles) and a population of 38,749 (as of 2019)."
+image = "https://static.history.state.gov/countries/liechtenstein-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LITHUANIA"
+name = "Lithuania"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "It is one of three Baltic states and lies on the eastern shore of the Baltic Sea."
+image = "https://static.history.state.gov/countries/lithuania-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "LUXEMBOURG"
+name = "Luxembourg"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Luxembourg is a developed country with an advanced economy and one of the world's highest GDP (PPP) per capita as per IMF and World Bank estimates."
+image = "https://static.history.state.gov/countries/luxembourg-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MADAGASCAR"
+name = "Madagascar"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Madagascar, officially the Republic of Madagascar, is an island country lying off the southeastern coast of Africa. It is the world's fourth largest island, the second-largest island country and the 46th largest country in the world."
+image = "https://static.history.state.gov/countries/madagascar-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MALAWI"
+name = "Malawi"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The part of Africa now known as Malawi was settled around the 10th century by migrating Bantu groups."
+image = "https://static.history.state.gov/countries/malawi-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MALAYSIA"
+name = "Malaysia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Peninsular Malaysia shares a land and maritime border with Thailand and maritime borders with Singapore, Vietnam, and Indonesia."
+image = "https://static.history.state.gov/countries/malaysia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MALDIVES"
+name = "Maldives"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Maldives chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south."
+image = "https://static.history.state.gov/countries/maldives-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MALI"
+name = "Mali"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The country is bordered on the north by Algeria, on the east by Niger, on the northwest by Mauritania, on the south by Burkina Faso and Côte d'Ivoire, and on the west by Guinea and Senegal."
+image = "https://static.history.state.gov/countries/mali-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MALTA"
+name = "Malta"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The official languages are Maltese and English, and 66% of the population is at least conversant in Italian."
+image = "https://static.history.state.gov/countries/malta-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MARSHALL"
+name = "Marshall Islands"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "It has the largest portion of its territory composed of water of any sovereign state, at 97.87%."
+image = "https://static.history.state.gov/countries/marshall-islands-flag.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MAURITANIA"
+name = "Mauritania"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Mauritania is the 11th-largest country in Africa and the 28th-largest in the world, and 90% of its territory is situated in the Sahara. "
+image = "https://static.history.state.gov/countries/mauritania-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MAURITIUS"
+name = "Mauritius"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The main island of Mauritius, where most of the people live, has the capital and largest city, Port Louis. "
+image = "https://static.history.state.gov/countries/mauritius-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MEXICO"
+name = "Mexico"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Mexico, officially the United Mexican States, is a country in the southern portion of North America"
+image = "https://static.history.state.gov/countries/mexico-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MICRONESIA"
+name = "Micronesia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Micronesia is a subregion of Oceania, consisting of about 2,000 small islands in the Northwestern Pacific Ocean"
+image = "https://static.history.state.gov/countries/micronesia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MOLDOVA"
+name = "Moldova"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe"
+image = "https://static.history.state.gov/countries/moldova-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MONACO"
+name = "Monaco"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Monaco, officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera a few kilometres west of the Italian region of Liguria, in Western Europe, on the Mediterranean Sea"
+image = "https://static.history.state.gov/countries/monaco-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MONGOLIA"
+name = "Mongolia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Mongolia is a landlocked country in East Asia, bordered by Russia to the north and China to the south"
+image = "https://static.history.state.gov/countries/mongolia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MONTENEGRO"
+name = "Montenegro"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Montenegro is a country in Southeast Europe.[12] It is bordered by Bosnia and Herzegovina to the north, Serbia to the northeast, Kosovo to the east, Albania to the southeast, and Croatia and the Adriatic Sea to the northwest with a coastline of 293.5 km"
+image = "https://static.history.state.gov/countries/montenegro-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MOROCCO"
+name = "Morocco"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Morocco, officially the Kingdom of Morocco, is a country in the Maghreb region of North Africa"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MOZAMBIQUE"
+name = "Mozambique"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Mozambique, officially the Republic of Mozambique, is a country located in southeastern Africa bordered by the Indian Ocean to the east, Tanzania to the north, Malawi and Zambia to the northwest, Zimbabwe to the west, and Eswatini and South Africa to the southwest"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/125px-Flag_of_Mozambique.svg.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NAMIBIA"
+name = "Namibia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Namibia, officially the Republic of Namibia, is a country in Southern Africa"
+image = "https://static.history.state.gov/countries/namibia.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NAURU"
+name = "Nauru"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Nauru, officially the Republic of Nauru and formerly known as Pleasant Island, is an island country and microstate in Micronesia, part of Oceania in the Central Pacific"
+image = "https://static.history.state.gov/countries/nauru-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NEPAL"
+name = "Nepal"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia"
+image = "https://static.history.state.gov/countries/nepal-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NETHERLANDS"
+name = "Netherlands"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Netherlands, informally Holland, is a country located in northwestern Europe "
+image = "https://static.history.state.gov/countries/netherlands-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NEWZEALAND"
+name = "New Zealand"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "New Zealand is an island country in the southwestern Pacific Ocean"
+image = "https://static.history.state.gov/countries/new-zealand-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NICARAGUA"
+name = "Nicaragua"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Nicaragua, is the largest country in Central America, bordered by Honduras to the north, the Caribbean to the east, Costa Rica to the south, and the Pacific Ocean to the west"
+image = "https://static.history.state.gov/countries/nicaragua-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NIGER"
+name = "Niger"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Niger or the Niger, officially the Republic of the Niger, is a landlocked country in West Africa"
+image = "https://static.history.state.gov/countries/niger-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NIGERIA"
+name = "Nigeria"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa"
+image = "https://static.history.state.gov/countries/nigeria-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "MACEDONIA"
+name = "North Macedonia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "North Macedonia, officially the Republic of North Macedonia, is a landlocked country in Southeast Europe"
+image ="https://static.history.state.gov/countries/macedonia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "NORWAY"
+name = "Norway"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Norway, formally the Kingdom of Norway, is a Nordic country in Northern Europe"
+image = "https://static.history.state.gov/countries/norway-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "OMAN"
+name = "Oman"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Oman, officially the Sultanate of Oman , is a country located in West Asia"
+image = "https://static.history.state.gov/countries/oman-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PAKISTAN"
+name = "Pakistan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia"
+image = "https://static.history.state.gov/countries/pakistan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PALAU"
+name = "Palau"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Palau, officially the Republic of Palau is an island country in the Micronesia subregion of Oceania in the western Pacific"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/125px-Flag_of_Palau.svg.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PANAMA"
+name = "Panama"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Panama, officially the Republic of Panama, is a transcontinental country in Central America, spanning the southern tip of North America into the northern part of South America"
+image = "https://static.history.state.gov/countries/panama-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PARAGUAY"
+name = "Paraguay"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Paraguay, officially the Republic of Paraguay, is a landlocked country in South America"
+image = "https://static.history.state.gov/countries/paraguay-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PERU"
+name = "Peru"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Peru, officially the Republic of Peru, is a country in western South America"
+image = "https://static.history.state.gov/countries/peru-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PHILIPPINES"
+name = "Philippines"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The Philippines, officially the Republic of the Philippine,is an archipelagic country in Southeast Asia"
+image = "https://static.history.state.gov/countries/philippines-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "POLAND"
+name = "Poland"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Poland, officially the Republic of Poland, is a country in Central Europe"
+image = "https://static.history.state.gov/countries/poland-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "PORTUGAL"
+name = "Portugal"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Portugal, officially the Portuguese Republic, is a country located on the Iberian Peninsula, in Southwestern Europe, and whose territory also includes the macaronesian archipelagos of the Azores and Madeira"
+image = "https://static.history.state.gov/countries/portugal-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "QATAR"
+name = "Qatar"
+issuer ="GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Qatar, officially the State of Qatar, is a country in West Asia"
+image = "https://static.history.state.gov/countries/qatar-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ROMANIA"
+name = "Romania"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Romania is a country at the crossroads of Central, Eastern and Southeast Europe"
+image = "https://static.history.state.gov/countries/romania-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "RUSSIA"
+name = "Russia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Russia, or the Russian Federation, is a country spanning Eastern Europe and Northern Asia"
+image = "https://static.history.state.gov/countries/russia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "RWANDA"
+name = "Rwanda"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Rwanda, officially the Republic of Rwanda, is a landlocked country in the Great Rift Valley of Central Africa, where the African Great Lakes region and Southeast Africa converge"
+image = "https://static.history.state.gov/countries/rwanda-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SAINTKITTS"
+name = "Saint Kitts and Nevis"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Saint Kitts and Nevis is a dual-island nation situated between the Atlantic Ocean and Caribbean Sea. It's known for cloud-shrouded mountains and beaches."
+image = "https://static.history.state.gov/countries/st-kitts-nevis-flag.jpg"
+conditions = "BuySell"
+
+
+[[CURRENCIES]]
+code = "SAINTLUCIA"
+name = "Saint Lucia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Saint Lucia is an Eastern Caribbean island nation with a pair of dramatically tapered mountains, the Pitons, on its west coast."
+image = "https://static.history.state.gov/countries/saint-lucia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SAINTVINCENT"
+name = "Saint Vincent and the Grenadines"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "St. Vincent and the Grenadines is a southern Caribbean nation comprising a main island, St. Vincent, and a chain of smaller islands."
+image = "https://static.history.state.gov/countries/saint-vincent-grenadines-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SAMOA"
+name = "Samoa"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Samoa, officially the Independent State of Samoa and until 1997 known as Western Samoa, is a Polynesian island country consisting of two main islands; two smaller, inhabited islands; and several smaller, uninhabited islands, including the Aleipata Islands."
+image = "https://static.history.state.gov/countries/samoa-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SANMARINO"
+name = "San Marino"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "San Marino is a mountainous microstate surrounded by north-central Italy. Among the world’s oldest republics, it retains much of its historic architecture. On the slopes of Monte Titano sits the capital, also called San Marino, known for its medieval walled old town and narrow cobblestone streets."
+image = "https://static.history.state.gov/countries/san-marino-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SAOTOME"
+name = "Sao Tome and Principe"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "São Tomé and Príncipe, an African island nation close to the equator, is part of a volcano chain featuring striking rock and coral formations, rainforests and beaches. On the larger island, São Tomé, is the Lagoa Azul lagoon."
+image = "https://static.history.state.gov/countries/sao-tome-principe-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SAUDIARABIA"
+name = "Saudi Arabia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country in West Asia"
+image = "https://static.history.state.gov/countries/saudi-arabia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SENEGAL"
+name = "Senegal"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Senegal,[c] officially the Republic of Senegal, is a country in West Africa"
+image = "https://static.history.state.gov/countries/senegal-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SERBIA"
+name = "Serbia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Serbia, officially the Republic of Serbia, is a landlocked country in Southeast and Central Europe"
+image = "https://static.history.state.gov/countries/serbia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SIERRALEONE"
+name = "Sierra Leone"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Sierra Leone, officially the Republic of Sierra Leone, is a country on the southwest coast of West Africa"
+image = "https://static.history.state.gov/countries/sierra-leone-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SINGAPORE"
+name = "Singapore"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Singapore, officially the Republic of Singapore, is an island country and city-state in maritime Southeast Asia"
+image = "https://static.history.state.gov/countries/singapore-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SLOVAKIA"
+name = "Slovakia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe"
+image = "https://static.history.state.gov/countries/slovakia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SLOVENIA"
+name = "Slovenia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Slovenia, officially the Republic of Slovenia, is a country in southern Central Europe"
+image = "https://static.history.state.gov/countries/slovenia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SOMALIA"
+name = "Somalia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Somalia, officially the Federal Republic of Somalia, is a country in the Horn of Africa"
+image = "https://static.history.state.gov/countries/somalia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SOUTHAFRICA"
+name = "South Africa"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "South Africa, officially the Republic of South Africa, is the southernmost country in Africa"
+image = "https://static.history.state.gov/countries/south-africa-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SOUTHKOREA"
+name = "South Korea"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "South Korea, officially the Republic of Korea, is a country in East Asia"
+image = "https://static.history.state.gov/countries/korea-south-flag.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SUDAN"
+name = "Sudan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "officially the Republic of the Sudan, is a country in Northeast Africa"
+image = "https://static.history.state.gov/countries/south-sudan-flag.png"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SPAIN"
+name = "Spain"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Spain, or the Kingdom of Spain, is a country located in Southwestern Europe"
+image = "https://static.history.state.gov/countries/spain-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SRILANKA"
+name = "Sri Lanka"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Sri Lanka, historically known as Ceylon and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia"
+image = "https://static.history.state.gov/countries/sri-lanka-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SWEDEN"
+name = "Sweden"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Sweden, formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe"
+image = "https://static.history.state.gov/countries/sweden-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SWITZERLAND"
+name = "Switzerland"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Switzerland, officially the Swiss Confederation, is a landlocked country located at the confluence of Western, Central and Southern Europe"
+image = "https://static.history.state.gov/countries/switzerland-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "SYRIA"
+name = "Syria"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant"
+image = "https://static.history.state.gov/countries/syria-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TAJIKISTAN"
+name = "Tajikistan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Tajikistan, officially the Republic of Tajikistan, is a landlocked country in Central Asia"
+image = "https://static.history.state.gov/countries/tajikistan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TANZANIA"
+name = "Tanzania"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Tanzania, officially the United Republic of Tanzania, is a country in East Africa within the African Great Lakes region"
+image = "https://static.history.state.gov/countries/tanzania-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "THILAND"
+name = "Thailand"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Thailand, officially the Kingdom of Thailand and historically known as Siam, is a country in Southeast Asia on the Indochinese Peninsula"
+image = "https://static.history.state.gov/countries/thailand.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TOGO"
+name = "Togo"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Togo, officially the Togolese Republic, is a country in West Africa"
+image = "https://static.history.state.gov/countries/togo-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TONGA"
+name = "Tonga"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Tonga, officially the Kingdom of Tonga, is an island country in Polynesia, part of Oceania"
+image = "https://static.history.state.gov/countries/tonga-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TUNISIA"
+name = "Tunisia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Tunisia, officially the Republic of Tunisia, is the northernmost country in Africa"
+image = "https://static.history.state.gov/countries/tunisia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TURKEY"
+name = "Turkey"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Turkey, officially the Republic of Turkey, is a transcontinental country located at the juncture of Southeast Europe and West Asia"
+image = "https://static.history.state.gov/countries/turkey-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TURKMENISTAN"
+name = "Turkmenistan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Turkmenistan, is a landlocked country in Central Asia bordered by Kazakhstan to the northwest, Uzbekistan to the north, east and northeast, Afghanistan to the southeast, Iran to the south and southwest and the Caspian Sea to the west"
+image = "https://static.history.state.gov/countries/turkmenistan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "TUVALU"
+name = "Tuvalu"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Tuvalu, formerly known as the Ellice Islands, is an island country in the Polynesian subregion of Oceania in the Pacific Ocean"
+image = "https://static.history.state.gov/countries/tuvalu-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "UGANDA"
+name = "Uganda"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Uganda, officially the Republic of Uganda, is a landlocked country in East Africa"
+image = "https://static.history.state.gov/countries/uganda-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "UKRAINE"
+name = "Ukraine"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Ukraine, is a country in Eastern Europe"
+image = "https://static.history.state.gov/countries/ukraine-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "UAE"
+name = "United Arab Emirates"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "The United Arab Emirates, or simply the Emirates, is a country in West Asia, in the Middle East"
+image = "https://static.history.state.gov/countries/united-arab-emirate-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "URUGUAY"
+name = "Uruguay"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Uruguay, officially the Oriental Republic of Uruguay or the Republic East of the Uruguay, is a country in South America"
+image = "https://static.history.state.gov/countries/uruguay-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "UZBEKISTAN"
+name = "Uzbekistan"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Uzbekistan, officially the Republic of Uzbekistan, is a doubly landlocked country located in Central Asia"
+image = "https://static.history.state.gov/countries/uzbekistan-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "VANUATU"
+name = "Vanuatu"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Vanuatu, officially the Republic of Vanuatu, is an island country in Melanesia, located in the South Pacific Ocean"
+image = "https://static.history.state.gov/countries/vanuatu-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "VENEZUELA"
+name = "Venezuela"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America,"
+image = "https://static.history.state.gov/countries/venezuela-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "VIETNAM"
+name = "Vietnam"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Vietnam, officially the Socialist Republic of Vietnam, is a country at the eastern edge of mainland Southeast Asia"
+image = "https://static.history.state.gov/countries/vietnam-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "YEMEN"
+name = "Yemen"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Yemen, officially the Republic of Yemen, is a country in West Asia"
+image = "https://static.history.state.gov/countries/yemen-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ZAMBIA"
+name = "Zambia"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Zambia, officially the Republic of Zambia, is a landlocked country at the crossroads of Central, Southern and East Africa"
+image = "https://static.history.state.gov/countries/zambia-flag.jpg"
+conditions = "BuySell"
+
+[[CURRENCIES]]
+code = "ZIMBABWE"
+name = "Zimbabwe"
+issuer = "GAFYE26ATPYPID4TDX43NWBVFLHD44TBXSOBEMWZVKARV3HQFXDJQQOQ"
+desc = "Zimbabwe , officially the Republic of Zimbabwe, is a landlocked country in Southern Africa"
+image = "https://static.history.state.gov/countries/zimbabwe.jpg"
+conditions = "BuySell"
+
+# COUNTRIEX <countriex.github.io>
